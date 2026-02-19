@@ -1,2 +1,2 @@
-# Jenny_Core_Personal_Development
+# Jenny Core Personal Development
 CPD Projects
